@@ -3,7 +3,7 @@
 
 #include <efi.h>
 #include <efilib.h>
-#include "my_dummy.h"
+#include "dummy.h"
 
 #define BASE_CMD_OP 0x2561
 #define MY_VARIABLE_NAME L"Neirox0z"
